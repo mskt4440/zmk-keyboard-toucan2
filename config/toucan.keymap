@@ -45,7 +45,7 @@
         nav {
             display-name = "NUM";
             bindings = <
-&kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &trans  &trans  &trans  &kp RC(RG(Q))  &trans  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &trans  &kp LS(RG(NUMBER_4))  &trans  &kp HOME  &kp PG_DN  &kp PG_UP  &kp END  &trans  &kp RS(ENTER)  &trans  &trans  &mo 3  &trans  &trans  &trans
+&kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &trans  &kp LS(RG(NUMBER_4))  &trans  &kp HOME  &kp PG_DN  &kp PG_UP  &kp END  &trans  &kp RS(ENTER)  &trans  &trans  &mo 3  &trans  &trans  &trans
             >;
         };
 
